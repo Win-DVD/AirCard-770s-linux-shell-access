@@ -28,4 +28,4 @@ Just run `adb shell` and you are golden. full shell access. It's that easy. You 
 You can also start a telnet and ftp server if you wish.
 
 Here is a picture of one running doom.
-<img width="2040" height="1459" alt="aircarddoom" src="https://github.com/user-attachments/assets/d2d7c239-6920-46c6-9ee2-a822af50e7c0" />
+![aircarddoom](https://github.com/user-attachments/assets/d152c0ed-95e6-4e71-b3e6-b7f1b2d0302f)
